@@ -12,3 +12,10 @@
 
 ### Exercise 4
 ![Ex4](/resources/Ex4.png?raw=true)
+
+
+### Exercise 5
+![Ex5](/resources/Ex5.png?raw=true)
+
+### Exercise 6
+![Ex6](/resources/Ex6.png?raw=true)
